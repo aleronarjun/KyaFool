@@ -1,0 +1,9 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<h2>kya Fool</h2>
+<form class="upload-form" action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data">
+   <input type="file" name="file" accept="image/jpg" multiple>
+   <input type="submit" name="" value="send">
+</form>
+{% endblock %}
