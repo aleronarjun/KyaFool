@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KyaFool.iml" filepath="$PROJECT_DIR$/KyaFool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/KyaFool.iml" filepath="$PROJECT_DIR$/.idea/KyaFool.iml" />
+      <module fileurl="file://G:\KyaFool\KyaFool\KyaFool.iml" filepath="G:\KyaFool\KyaFool\KyaFool.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\KyaFool\KyaFool\app\app.iml" filepath="G:\KyaFool\KyaFool\app\app.iml" />
     </modules>
   </component>
 </project>
